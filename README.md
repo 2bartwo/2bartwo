@@ -1,16 +1,27 @@
 ## Hi there 👋
+# BARTU — DEV 🚀
 
-<!--
-**2bartwo/2bartwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="images/header.svg" alt="bartu header" width="100%" /></p>
 
-Here are some ideas to get you started:
+Merhaba! 19 yaşındayım, Bilgisayar Programcılığı 1. sınıf öğrencisiyim. Web geliştirmeye meraklıyım; açık kaynak projelerini keşfetmeyi ve onlara katkıda bulunmayı çok seviyorum. 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Yetenekler 🧰
+
+- **Web (🌐):** HTML · CSS · JavaScript · React · Responsive tasarım
+- **Veri & DB (🗄️):** Temel SQL · SQLite · Veri işleme fikirleri
+- **Araçlar (🛠️):** Git · GitHub · VS Code
+- **Kaynak keşfi (🔎):** Açık kaynak projeleri inceleme ve katkı araştırması
+
+## İletişim ✉️
+
+- **E‑posta:** ✉️ bartuyildiz02@gmail.com
+- **LinkedIn:** 💼 https://www.linkedin.com/in/bartuy%C4%B1ld%C4%B1z/
+- **X:** 🐦 https://x.com/02bartwo
+
+## Eğitim 🎓
+
+- University of Kyrenia — Bilgisayar Programcılığı, 1. sınıf
+
+## İlgi Alanları ⭐
+
+- Web geliştirme · Açık kaynak
