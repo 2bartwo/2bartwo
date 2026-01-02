@@ -2,8 +2,6 @@
 
 <p align="center"><img src="images/header.svg" alt="bartu header" width="100%" /></p>
 
-<p align="center"><img src="images/avatar.svg" alt="avatar" width="120" /></p>
-
 Merhaba! 19 yaşındayım, Bilgisayar Programcılığı 1. sınıf öğrencisiyim. Web geliştirmeye meraklıyım; açık kaynak projelerini keşfetmeyi ve onlara katkıda bulunmayı çok seviyorum. 👋
 
 ## Yetenekler 🧰
