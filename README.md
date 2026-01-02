@@ -2,6 +2,8 @@
 
 <p align="center"><img src="images/header.svg" alt="bartu header" width="100%" /></p>
 
+<p align="center"><img src="images/avatar.svg" alt="avatar" width="120" /></p>
+
 Merhaba! 19 yaşındayım, Bilgisayar Programcılığı 1. sınıf öğrencisiyim. Web geliştirmeye meraklıyım; açık kaynak projelerini keşfetmeyi ve onlara katkıda bulunmayı çok seviyorum. 👋
 
 ## Yetenekler 🧰
@@ -24,3 +26,13 @@ Merhaba! 19 yaşındayım, Bilgisayar Programcılığı 1. sınıf öğrencisiyi
 ## İlgi Alanları ⭐
 
 - Web geliştirme · Açık kaynak
+
+## Projeler 🚧
+
+<p align="center">
+	<a href="#"><img src="images/project1.svg" alt="Proje 1" width="320" /></a>
+	<a href="#"><img src="images/project2.svg" alt="Proje 2" width="320" /></a>
+</p>
+
+- **Basit Web Projesi:** HTML, CSS, JS ile yapılmış öğrenme amaçlı site.
+- **Veri İşleme Denemesi:** CSV verisi üzerinde temel analiz ve görselleştirme (plan).
